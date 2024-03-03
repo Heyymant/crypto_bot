@@ -1,4 +1,4 @@
-Certainly! Here's a catchy and informative GitHub repository description for your automated trading bot project:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 (https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -31,8 +31,8 @@ Automated trading offers numerous advantages, including:
 5. **Deploy** your automated trading bot and monitor performance.
 
 ## 🌟 Contributors:
-- [Your Name](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
+- [Hemant](https://www.linkedin.com/in/hemant-kumar-174157193/)
+
 
 ## 📝 License:
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
